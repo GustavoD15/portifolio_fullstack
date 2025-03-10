@@ -7,7 +7,7 @@
 
 /* Estrutura */
 body {
-    background-color: #121212; 
+    background-color:rgb(43, 43, 43); 
     color: #e0e0e0; 
 }
 
@@ -92,19 +92,19 @@ nav ul li a:hover {
 
 /* Contato */
 #contato a {
-    color: #1e90ff; /* Bright blue color */
+    color: #1e90ff; 
     text-decoration: none;
-    transition: color 0.3s; /* Smooth transition */
+    transition: color 0.3s; 
 }
 
 #contato a:hover {
-    color: #63a4ff; /* Lighter blue on hover */
+    color: #63a4ff; 
 }
 
 /* Rodapé */
 footer {
-    background-color: #1f1f1f; /* Darker footer background */
-    color: #e0e0e0; /* Light text color */
+    background-color: #1f1f1f; 
+    color: #e0e0e0; 
     text-align: center;
     padding: 15px 0;
     margin-top: 40px;
